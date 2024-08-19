@@ -1,0 +1,8 @@
+keras
+keras-cv
+numpy
+tqdm
+scikit-learn
+ipykernel
+matplotlib
+seaborn
